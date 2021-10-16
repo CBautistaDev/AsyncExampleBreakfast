@@ -1,0 +1,16 @@
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\bin\Debug\net5.0\AsyncExampleBreakfast.exe
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\bin\Debug\net5.0\AsyncExampleBreakfast.deps.json
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\bin\Debug\net5.0\AsyncExampleBreakfast.runtimeconfig.json
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\bin\Debug\net5.0\AsyncExampleBreakfast.runtimeconfig.dev.json
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\bin\Debug\net5.0\AsyncExampleBreakfast.dll
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\bin\Debug\net5.0\ref\AsyncExampleBreakfast.dll
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\bin\Debug\net5.0\AsyncExampleBreakfast.pdb
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\obj\Debug\net5.0\AsyncExampleBreakfast.csproj.AssemblyReference.cache
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\obj\Debug\net5.0\AsyncExampleBreakfast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\obj\Debug\net5.0\AsyncExampleBreakfast.AssemblyInfoInputs.cache
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\obj\Debug\net5.0\AsyncExampleBreakfast.AssemblyInfo.cs
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\obj\Debug\net5.0\AsyncExampleBreakfast.csproj.CoreCompileInputs.cache
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\obj\Debug\net5.0\AsyncExampleBreakfast.dll
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\obj\Debug\net5.0\ref\AsyncExampleBreakfast.dll
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\obj\Debug\net5.0\AsyncExampleBreakfast.pdb
+C:\Users\CaBautista\OneDrive - EXPERIAN SERVICES CORP\Desktop\c#\AsyncExampleBreakfast\obj\Debug\net5.0\AsyncExampleBreakfast.genruntimeconfig.cache

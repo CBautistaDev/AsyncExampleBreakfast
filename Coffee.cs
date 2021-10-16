@@ -1,0 +1,7 @@
+namespace AsyncExampleBreakfast
+{
+    class Coffee{
+
+        
+    }
+}

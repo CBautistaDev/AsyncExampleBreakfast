@@ -1,0 +1,8 @@
+namespace AsyncExampleBreakfast
+{
+    class Bacon
+    {
+
+
+    }
+}
